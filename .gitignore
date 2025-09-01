@@ -1,0 +1,32 @@
+# Build Folders
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Auto-generated files
+*.dbmdl
+*.bak
+*.tmp
+
+# Publish files
+*.publishsettings
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# SQL dumps (except your codes.sql)
+*.sql
+!codes.sql
